@@ -1,0 +1,6 @@
+{
+    "error_message_required": "This field is required",
+    "text_field_label_privMileageCounter": "Enter your mileage at the start of this month",
+    "text_field_label_newMileageCounter": "Enter your mileage at the end of this month",
+    "text_field_label_dayCounter": "Enter work days count"
+}
